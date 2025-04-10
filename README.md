@@ -1,5 +1,7 @@
 # Birthday Reminder Telegram Bot
 
+![GitHub](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/hhai93/Birthday_Reminder_Telegram_Bot)
+
 This Telegram bot, built with **Google Apps Script**, automatically checks birthdays from a Google Sheets file and sends notifications via Telegram. The bot will:
 - Notify if today is someone's birthday.
 - Send a reminder 7 days before an upcoming birthday.
